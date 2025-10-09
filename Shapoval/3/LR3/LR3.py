@@ -20,5 +20,6 @@ print(student1.info())
 print(student2.info())
 print(student3.info())
 
+
 # Очікування натискання Enter
 input("\nНатисніть Enter для завершення програми...")
